@@ -16,9 +16,9 @@ This child theme, contains the following folders:
 * custom-modules
 * lang
 
-
 In the `lang` folder there are 2 folders:
 1. `theme` folder contains all the original files from Divi which will help you translate the Divi theme
 2. `builder` folder contains all the original files from Divi which will help you translate the Divi Builder interface
 
+#### Customization
 In the `custom-modules` folder, you can put any PHP files related to customizing your modules.
