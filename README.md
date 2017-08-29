@@ -22,3 +22,8 @@ In the `lang` folder there are 2 folders:
 
 #### Customization
 In the `custom-modules` folder, you can put any PHP files related to customizing your modules.
+
+## Misc
+1. [WordPress Child theme documentation](https://codex.wordpress.org/Child_Themes)
+2. [WordPress Template Hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/)
+3. [How to override Parent theme files](https://themezee.com/docs/how-to-override-template-files/)
