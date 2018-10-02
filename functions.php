@@ -21,3 +21,5 @@ function divi_child_theme_add_custom_module() {
 	get_template_part( 'custom-modules/Image' );
 }
 add_action('et_builder_ready', 'divi_child_theme_add_custom_module' );
+
+/*something*/
