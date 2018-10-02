@@ -23,6 +23,9 @@ In the `lang` folder there are 2 folders:
 #### Customization
 In the `custom-modules` folder, you can put any PHP files related to customizing your modules.
 
+##### Image.php
+This is the PHP file that contains all the code from the original PHP file, with the addition that now the image module will pull in the Image Alt Tag, Title and Caption text set in Media Library
+
 ## Misc
 1. [WordPress Child theme documentation](https://codex.wordpress.org/Child_Themes)
 2. [WordPress Template Hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/)
