@@ -32,7 +32,7 @@
 	$page_container_style = $product_tour_enabled ? ' style="padding-top: 0px;"' : ''; ?>
 	<div id="page-container"<?php echo et_core_intentionally_unescaped( $page_container_style, 'fixed_string' ); ?>>
 <?php
-	if ( $product_tour_enabled || is_page_template( 'page-template-blank.php' ) || is_page_template( 'single-post-template.php' ) ) {
+	if ( $product_tour_enabled || is_page_template( 'page-template-blank.php' ) || is_page_template( 'single-blank-post-template.php' ) ) {
 		return;
 	}
 

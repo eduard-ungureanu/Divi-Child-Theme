@@ -12,7 +12,7 @@ if ( 'on' === et_get_option( 'divi_back_to_top', 'false' ) ) : ?>
 
 <?php endif;
 
-if ( ! is_page_template( 'page-template-blank.php' ) || ! is_page_template( 'single-post-template.php' ) ) : ?>
+if ( ! is_page_template( 'page-template-blank.php' ) || ! is_page_template( 'single-blank-post-template.php' ) ) : ?>
 
 			<footer id="main-footer">
 				<?php get_sidebar( 'footer' ); ?>
